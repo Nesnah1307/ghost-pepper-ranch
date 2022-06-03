@@ -1,4 +1,5 @@
 # Budget Tracker
+![Screenshot (38)](https://user-images.githubusercontent.com/96394025/171760877-bb111050-44bc-4d89-8cc4-a4de3cf651a7.png)
 
   ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
   ## Description 
@@ -8,14 +9,12 @@
   
   * [Usage](#usage)
   
-  * [Credits](#credits)
-  
   * [License](#license)
   
   * [Questions](#questions)
   
   ## Usage 
-  insert link here
+  [insert link here](https://shrouded-garden-23181.herokuapp.com/)
   
   ## License
   (https://github.com/ellerbrock/open-source-badges/)
